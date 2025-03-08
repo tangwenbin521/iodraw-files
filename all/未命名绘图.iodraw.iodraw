@@ -36,7 +36,7 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUV2cSf0nWSVAJcnCKii-9" target="nUV2cSf0nWSVAJcnCKii-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;研究主题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;研究主题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="50" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;新能源汽车&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -45,7 +45,7 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUV2cSf0nWSVAJcnCKii-12" target="nUV2cSf0nWSVAJcnCKii-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;研究问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;研究问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="50" y="317.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUV2cSf0nWSVAJcnCKii-13" target="nUV2cSf0nWSVAJcnCKii-35">
@@ -126,12 +126,6 @@
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-83" value="影响新能源发展因素" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="385" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-90" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="760" as="sourcePoint" />
-            <mxPoint x="480" y="900" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
