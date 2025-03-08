@@ -40,9 +40,6 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;新能源汽车&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;市场与战略前瞻&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="490" y="180" width="160" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;研究问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="395" width="120" height="60" as="geometry" />
         </mxCell>
@@ -94,14 +91,14 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-37" value="新能源汽车各品牌之间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="825" y="610" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-51" value="国内新能源发展现状" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="160" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="740" y="110" width="270" height="215" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-57" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;市场与战略前瞻&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="790" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-60" value="国内新能源发展现状" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="790" y="240" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
