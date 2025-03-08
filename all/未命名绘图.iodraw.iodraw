@@ -79,7 +79,7 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-26" value="新能源汽车的分布密度与销量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1160" y="325" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-27" value="新能源汽车与传统汽车" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="820" y="507.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-28" value="新能源汽车的分布密度与销量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -88,14 +88,11 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-29" value="新能源汽车与传统汽车" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1170" y="450" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-30" value="新能源汽车各品牌之间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="830" y="620" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-35" value="新能源汽车的分布密度与销量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-35" value="新能源汽车与传统汽车" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="600" y="250" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-36" value="新能源汽车的分布密度与销量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="590" y="100" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-37" value="新能源汽车的分布密度与销量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="815" y="250" width="160" height="60" as="geometry" />
