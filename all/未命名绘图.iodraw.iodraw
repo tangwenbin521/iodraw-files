@@ -74,6 +74,9 @@
             <mxPoint x="420" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUV2cSf0nWSVAJcnCKii-23" target="nUV2cSf0nWSVAJcnCKii-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="490" width="270" height="335" as="geometry" />
         </mxCell>
@@ -129,7 +132,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-96" value="使用方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="530" y="490" width="120" height="330" as="geometry" />
+          <mxGeometry x="530" y="492.5" width="120" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
