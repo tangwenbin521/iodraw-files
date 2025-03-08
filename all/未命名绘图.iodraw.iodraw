@@ -50,7 +50,7 @@
           <mxGeometry x="50" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-14" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;结论与建议&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="720" width="130" height="60" as="geometry" />
+          <mxGeometry x="45" y="790" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-15" value="国内新能源发展现状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="350" width="120" height="60" as="geometry" />
@@ -66,6 +66,11 @@
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-19" value="新能源汽车各品牌之间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nUV2cSf0nWSVAJcnCKii-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="639.8333333333335" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-20" value="新能源汽车与传统汽车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
