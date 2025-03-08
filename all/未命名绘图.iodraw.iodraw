@@ -71,16 +71,16 @@
           <mxGeometry x="520" y="510" width="170" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="450" width="210" height="335" as="geometry" />
+          <mxGeometry x="800" y="370" width="210" height="335" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-25" value="新能源汽车的分布密度与销量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="260" y="490" width="150" height="60" as="geometry" />
+          <mxGeometry x="830" y="410" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-26" value="新能源汽车的分布密度与销量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1160" y="325" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-27" value="新能源汽车与传统汽车" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="280" y="575" width="140" height="60" as="geometry" />
+          <mxGeometry x="830" y="520" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-28" value="新能源汽车的分布密度与销量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1610" y="265" width="150" height="60" as="geometry" />
