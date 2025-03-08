@@ -134,8 +134,8 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-96" value="使用方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="492.5" width="120" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-100" value="根据结论提出队友政策建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="890" width="250" height="60" as="geometry" />
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-100" value="根据结论提出对应政策建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="890" width="275" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
