@@ -119,6 +119,12 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-83" value="影响新能源发展因素" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="385" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-95" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="600" as="sourcePoint" />
+            <mxPoint x="520" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
