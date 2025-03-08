@@ -64,6 +64,9 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-18" value="新能源汽车的分布密度与销量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-19" value="新能源汽车的发展程度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
