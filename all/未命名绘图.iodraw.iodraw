@@ -67,6 +67,9 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-19" value="新能源汽车的发展程度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-20" value="新能源汽车与传统汽车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
