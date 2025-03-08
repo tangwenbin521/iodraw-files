@@ -102,12 +102,6 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-60" value="国内新能源发展现状" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="265" y="360" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="349.58000000000004" y="180" as="sourcePoint" />
-            <mxPoint x="349.58000000000004" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
