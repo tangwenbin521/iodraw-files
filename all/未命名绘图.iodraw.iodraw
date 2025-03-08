@@ -53,10 +53,13 @@
           <mxGeometry x="45" y="720" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-15" value="国内新能源发展现状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-16" value="影响新能源发展因素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="455" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
