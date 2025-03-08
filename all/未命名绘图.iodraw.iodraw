@@ -13,7 +13,7 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;研究内容&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUV2cSf0nWSVAJcnCKii-5">
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1" source="nUV2cSf0nWSVAJcnCKii-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="325.0000000000001" as="targetPoint" />
           </mxGeometry>
@@ -48,7 +48,7 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;研究问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="50" y="317.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUV2cSf0nWSVAJcnCKii-13">
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="nUV2cSf0nWSVAJcnCKii-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="890" as="targetPoint" />
           </mxGeometry>
@@ -95,7 +95,7 @@
         <mxCell id="nUV2cSf0nWSVAJcnCKii-37" value="新能源汽车各品牌之间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="270" y="732.5" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nUV2cSf0nWSVAJcnCKii-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUV2cSf0nWSVAJcnCKii-56" target="nUV2cSf0nWSVAJcnCKii-17">
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d0cee2;strokeColor=#56517e;" edge="1" parent="1" source="nUV2cSf0nWSVAJcnCKii-56" target="nUV2cSf0nWSVAJcnCKii-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
