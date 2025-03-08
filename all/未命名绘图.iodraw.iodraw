@@ -82,7 +82,10 @@
           <mxGeometry x="700" y="390" width="210" height="335" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="745" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="745" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-25" value="新能源汽车的分布密度与销量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="425" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
