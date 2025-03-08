@@ -86,10 +86,16 @@
           <mxGeometry x="1170" y="450" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-35" value="新能源汽车与传统汽车" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="825" y="510" width="160" height="60" as="geometry" />
+          <mxGeometry x="825" y="507.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-37" value="新能源汽车各品牌之间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="825" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="450" as="sourcePoint" />
+            <mxPoint x="550" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
