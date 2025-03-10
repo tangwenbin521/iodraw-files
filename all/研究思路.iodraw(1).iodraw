@@ -1,0 +1,136 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vCJIEFZkRuC47ePbJEs7-4" value="" style="shape=link;html=1;fillColor=#ffe6cc;strokeWidth=2;strokeColor=#d79b00;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="nUV2cSf0nWSVAJcnCKii-4" target="nUV2cSf0nWSVAJcnCKii-5" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="485" y="79.75999999999993" as="sourcePoint" />
+            <mxPoint x="585" y="79.75999999999993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCJIEFZkRuC47ePbJEs7-3" value="" style="shape=link;html=1;fillColor=#ffe6cc;strokeWidth=2;strokeColor=#d79b00;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="nUV2cSf0nWSVAJcnCKii-4" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="200" y="79.76" as="sourcePoint" />
+            <mxPoint x="300" y="79.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-73" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;shadow=0;sketch=0;strokeWidth=2;" parent="1" source="nUV2cSf0nWSVAJcnCKii-3" target="nUV2cSf0nWSVAJcnCKii-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-3" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 19px&quot;&gt;研究思路&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-4" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;研究内容&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#b1ddf0;strokeColor=#10739e;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nUV2cSf0nWSVAJcnCKii-5" target="nUV2cSf0nWSVAJcnCKii-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="325.0000000000001" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-5" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;研究方法&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="600" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" source="nUV2cSf0nWSVAJcnCKii-9" target="nUV2cSf0nWSVAJcnCKii-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-9" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 19px&quot;&gt;研究主题&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" parent="1" vertex="1">
+          <mxGeometry x="60" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vCJIEFZkRuC47ePbJEs7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#001DBC;strokeWidth=2;fillColor=#0050ef;" parent="1" source="nUV2cSf0nWSVAJcnCKii-10" target="nUV2cSf0nWSVAJcnCKii-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-10" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;研究领域&lt;br&gt;新能源汽车&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="340" y="140" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="nUV2cSf0nWSVAJcnCKii-12" target="nUV2cSf0nWSVAJcnCKii-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-12" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 19px&quot;&gt;研究问题&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="60" y="414" width="120" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fa6800;strokeColor=#C73500;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nUV2cSf0nWSVAJcnCKii-13" target="nUV2cSf0nWSVAJcnCKii-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="986.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-13" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 19px&quot;&gt;数据分析&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="60" y="706.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="nUV2cSf0nWSVAJcnCKii-14" target="nUV2cSf0nWSVAJcnCKii-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-14" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 19px&quot;&gt;结论与建议&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="60" y="996.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="nUV2cSf0nWSVAJcnCKii-17" target="nUV2cSf0nWSVAJcnCKii-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-17" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;研究现状&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 19px&quot;&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;文献分析&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="416.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="806.3333333333335" as="targetPoint" />
+            <mxPoint x="470" y="806.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="nUV2cSf0nWSVAJcnCKii-23" target="nUV2cSf0nWSVAJcnCKii-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="265" y="656.5" width="270" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="nUV2cSf0nWSVAJcnCKii-25" target="nUV2cSf0nWSVAJcnCKii-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-25" value="新能源汽车的分布密度与销量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="320" y="689" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="nUV2cSf0nWSVAJcnCKii-35" target="nUV2cSf0nWSVAJcnCKii-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-35" value="新能源汽车与传统汽车" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="320" y="796.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-37" value="新能源汽车各品牌之间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="320" y="899" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" source="nUV2cSf0nWSVAJcnCKii-56" target="nUV2cSf0nWSVAJcnCKii-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="265" y="414" width="270" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-60" value="国内新能源发展现状" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="320" y="441.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-82" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;市场数据化解构与战略前瞻&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="260" y="240" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-83" value="影响新能源发展因素" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="320" y="551.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="nUV2cSf0nWSVAJcnCKii-96" target="nUV2cSf0nWSVAJcnCKii-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-96" value="使用方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="620" y="589" width="120" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="nUV2cSf0nWSVAJcnCKii-100" target="nUV2cSf0nWSVAJcnCKii-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-100" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;根据结论提出对应政策建议&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="262.5" y="996.5" width="275" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nUV2cSf0nWSVAJcnCKii-102" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;总结归纳&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="620" y="996.5" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
