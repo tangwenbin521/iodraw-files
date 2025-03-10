@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,6 +47,9 @@
           <mxGeometry x="340" y="140" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="nUV2cSf0nWSVAJcnCKii-12" target="nUV2cSf0nWSVAJcnCKii-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsJ1TzVfFMSoQAcW5Br3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nUV2cSf0nWSVAJcnCKii-12" target="nUV2cSf0nWSVAJcnCKii-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-12" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 19px&quot;&gt;研究问题&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -104,16 +107,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="265" y="414" width="270" height="215" as="geometry" />
+          <mxGeometry x="265" y="344" width="270" height="215" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-60" value="国内新能源发展现状" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="320" y="441.5" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="371.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-82" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;市场数据化解构与战略前瞻&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="260" y="240" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-83" value="影响新能源发展因素" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="320" y="551.5" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="481.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUV2cSf0nWSVAJcnCKii-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="nUV2cSf0nWSVAJcnCKii-96" target="nUV2cSf0nWSVAJcnCKii-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
